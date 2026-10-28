@@ -1,3 +1,1 @@
-# gemini
-skills for gemini
-https://github.com/coreyhaines31/marketingskills.git
+gh repo clone coreyhaines31/marketingskills
